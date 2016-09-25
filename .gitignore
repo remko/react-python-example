@@ -1,0 +1,6 @@
+server/server.js
+server/server.py
+server/public/js
+server/vendor
+node_modules
+*.pyc
